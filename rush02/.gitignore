@@ -1,0 +1,5 @@
+*.swp
+*.out
+.vscode
+*.o
+rush-02
